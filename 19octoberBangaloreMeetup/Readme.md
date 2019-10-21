@@ -11,7 +11,7 @@
 | Evolution of Storage Volumes in K8S - Ashutosh Kumar, (OpenEbs)| [Slides]() |  | 
 | Deep Dive into Rancher Longhorn - Kiran Mova, (OpenEbs)| [Slides]() |  | 
 | Litmus: Cloud Native Chaos Engineering, (OpenEbs)| [Slides]() | |
-| Lightweight Kubernetes development with K3s, k3sOs, and Okteto - Sangam Biradar(EngineITops)| [Slides]() |  | 
+| Lightweight Kubernetes development with K3s, k3sOs, and Okteto - Sangam Biradar(EngineITops)| [Slides](https://www.slideshare.net/sangambiradar370/rabncher-meetup-india-lightweight-kubernetes-development-with-k3s-k3os-and-oketo) |  | 
 
 
 ## Images
