@@ -8,9 +8,9 @@
 | Topic        | Presentation          | Video  | 
 | ------------- |:-------------:| -----:| 
 | Introduction to Rancher Demo cum Workshop - Saiyam Pathak, (Walmart Labs)| [Slides](https://www.slideshare.net/saiyampathak1/introduction-to-rancher-184283345) |  | 
-| Evolution of Storage Volumes in K8S - Ashutosh Kumar, (OpenEbs)| [Slides]() |  | 
-| Deep Dive into Rancher Longhorn - Kiran Mova, (OpenEbs)| [Slides]() |  | 
-| Litmus: Cloud Native Chaos Engineering, (OpenEbs)| [Slides]() | |
+| Evolution of Storage Volumes in K8S - Ashutosh Kumar, ([MayaData](https://mayadata.io))| [Slides]() |  | 
+| Deep Dive into Rancher Longhorn - Kiran Mova, ([MayaData](https://mayadata.io))| [Slides](https://docs.google.com/presentation/d/1E2_C75Nf2EjiRVNj7mDNA4diIC2g0TD_mmUbqg8DUvU/edit?usp=sharing) |  | 
+| Litmus: Cloud Native Chaos Engineering, (M[MayaData](https://mayadata.io))| [Slides]() | |
 | Lightweight Kubernetes development with K3s, k3sOs, and Okteto - Sangam Biradar(EngineITops)| [Slides]() |  | 
 
 
